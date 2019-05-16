@@ -1,0 +1,30 @@
+.case-study {
+    padding: 5% 1%;
+}
+.section-footer {  
+	flex-wrap: wrap;	
+	font-size: 0.5rem;     
+}
+.submissions {
+    padding: 5% 10%;
+}
+.for-absol {  
+  width: 100px;
+  height: 60px;   
+}
+.div-absolute-1 {
+	top: 150px;
+	left: 50px
+}
+.div-absolute-2 {
+	top: 150px;
+  	left: 170px
+}
+.div-absolute-3 {
+	top: 150px;
+  	left: 290px
+}
+.div-absolute-4 {
+	top: 150px;  
+  	left: 410px  
+}

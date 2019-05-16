@@ -1,0 +1,9 @@
+.for-tabs {
+    width: 458px;    
+}
+.nav-pills>li.active:nth-child(3)::before {  
+  border-width: 0;  
+}
+.nav-pills>li.active:nth-child(2)::after {    
+  border-width: 0;  
+}

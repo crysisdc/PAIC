@@ -1,0 +1,133 @@
+body {
+	font-size: 13px;
+}
+.case-study {
+    padding: 5% 1%;
+}
+.for-tabs {
+  text-align: left;
+	margin: auto;
+  width: 230px;    
+}
+.nav-pills>li.active:nth-child(1)::after {  
+  border-width: 0;  
+}
+.nav-pills>li.active:nth-child(4)::before {    
+  border-width: 0;  
+}
+.nav-pills>li.active:nth-child(3)::before {  
+  border-width: 0;  
+}
+.nav-pills>li.active:nth-child(2)::before {  
+  border-width: 0;  
+}
+.nav-pills>li.active:nth-child(3)::after {    
+  border-width: 0;  
+}
+
+
+
+
+.nav-pills>li {
+    width: 100%;
+}
+p {
+	font-size: 1rem;
+}
+.spec-button {    
+  padding: 5px 50px;
+}
+.green-section {
+  padding: 5% 2%;
+}
+.submissions {
+    padding: 5% 2%;
+}
+.about-us-section {  
+  padding: 5% 2%;    
+}
+h1 {
+  font-size: 2.2rem;
+}
+h2 {
+  font-weight: bold;
+  font-size: 1.4rem;
+}
+h3 {
+  font-size: 1.2rem;
+}
+.section-footer > div { 
+  width: 100%;
+  text-align: center;
+  font-size: 0.7rem;
+}
+.print-m {
+  margin-left: 5px;
+}
+.section-five-three-div {
+  width: 100% !important;
+  text-align: center;
+}
+.submissions > ul > li > * {    
+    font-size: 0.8rem;
+}
+.for-absol {  
+  width: 80px;
+  height: 50px;   
+}
+.div-absolute-1 {
+  top: 80px;
+  left: 50px
+}
+.div-absolute-2 {
+  top: 80px;
+  left: 170px
+}
+.div-absolute-3 {
+  top: 160px;
+  left: 50px
+}
+.div-absolute-4 {
+  top: 160px;  
+  left: 170px  
+}
+.form-button {
+  width: 235px;
+}
+.mid-sun {  
+  width: 200px;
+  height: 200px;  
+}
+.sun-right {
+  left: 100px;
+}
+.sun-left {
+  top: 200px;
+  left: 100px;
+}
+.div-for-timer {    
+  width: auto;  
+}
+
+.img-position-1 { 
+  top: 16px;
+  left: 10px;
+}
+.img-position-2 {
+  left: 10px;
+  top: 79px;  
+}
+.img-position-3 { 
+  top: 137px;  
+}
+.img-position-4 { 
+  top: 198px;
+  left: 10px;
+}
+.img-position-5 { 
+  top: 259px;  
+}
+.img-position-6 { 
+  top: 320px;
+  left: 10px;
+}

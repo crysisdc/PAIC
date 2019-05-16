@@ -1,0 +1,37 @@
+.register-form > div {
+	width: 100%;
+}
+.half > img {
+	width: 100%;
+}
+.second-half {
+    padding: 5% 22% 5% 22%;
+}
+.howwecan-left {	  
+	top: 100px;	
+}
+.our-left {
+	width: 100%;
+	text-align: center;
+	margin-bottom: 50px;
+}
+.our-mid {
+	width: 100%;
+	text-align: center;
+}
+.our-right {
+	width: 100%;
+	text-align: center;
+	margin-top: 50px;
+}
+.sun-right {    
+    top: 0px;
+    left: 150px;
+}
+.sun-left {   
+    top: 300px;
+    left: 150px;
+}
+.right-padding-for-p {
+  padding-right: 0;
+}

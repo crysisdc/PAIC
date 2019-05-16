@@ -1,0 +1,55 @@
+.second-half {
+    padding: 5% 15% 5% 15%;
+}
+
+.about-us {
+    flex-wrap: wrap;
+    align-items: center;
+}
+.about-us > * {
+    width: 100%;
+}
+.right-div {
+	margin-top: 5%;
+    margin-left: 0;
+}
+.div-flex {
+    width: 100%;
+}
+.section-footer {  
+  font-size: 0.7rem; 
+}
+.print-m {
+  margin-left: 20px;
+}
+.submissions {
+    padding: 5% 10%;
+}
+.green-section {    
+    padding: 5% 10%;    
+}
+.about-us-section {
+    margin-top: 5%;
+    padding: 5% 10%;
+    background-color: #36495e;
+}
+
+.left-half2 {
+    width: 100%;
+}
+.relative-div {
+    width: 100%;
+}
+.div-absolute-1 {
+  left: 50px
+}
+.div-absolute-2 {
+  left: 50px
+}
+.div-absolute-3 {
+  left: 50px
+}
+.div-absolute-4 {  
+  left: 50px  
+}
+
