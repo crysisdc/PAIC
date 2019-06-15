@@ -23,7 +23,41 @@ $(document).ready(function () {
 		$('.a-three').addClass('active');
 		$('.a-four').removeClass('active');
 	})
-})
+});
+
+$(document).ready(function () {
+  $('#div-absolute-1').click(function() {
+    $('#hotels-1').removeClass('d-none');
+    $('#things-to-do-2').addClass('d-none');
+    $('#eat-3').addClass('d-none');
+    $('#transport-4').addClass('d-none');    
+  })
+  $('#div-absolute-2').click(function() {
+    $('#hotels-1').addClass('d-none');
+    $('#things-to-do-2').removeClass('d-none');
+    $('#eat-3').addClass('d-none');
+    $('#transport-4').addClass('d-none');
+  })
+  $('#div-absolute-3').click(function() {
+    $('#hotels-1').addClass('d-none');
+    $('#things-to-do-2').addClass('d-none');
+    $('#eat-3').removeClass('d-none');
+    $('#transport-4').addClass('d-none');
+  })
+  $('#div-absolute-4').click(function() {
+    $('#hotels-1').addClass('d-none');
+    $('#things-to-do-2').addClass('d-none');
+    $('#eat-3').addClass('d-none');
+    $('#transport-4').removeClass('d-none');
+  })
+});
+
+
+
+
+
+
+
 $('.owl-carousel').owlCarousel({
     loop:true,
     margin:0,

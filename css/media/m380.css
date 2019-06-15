@@ -4,3 +4,17 @@
 .logo-left {
     margin-bottom: 10px;    
 }
+.div-absolute-1 {
+  top: 950px;  
+}
+.div-absolute-2 {
+  top: 950px;  
+}
+.div-absolute-3 {
+  top: 1010px;
+  left: 50px
+}
+.div-absolute-4 {
+  top: 1010px;  
+  left: 170px  
+}

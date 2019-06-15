@@ -162,6 +162,12 @@ p {
 .right-padding-for-p {
   padding-right: 35%;
 }
+.d-none {
+  display: none;
+}
+.text-center {
+  text-align: center;
+}
 
 
 
@@ -1572,8 +1578,7 @@ p {
 
 /*welcome-to*/
 .welcome-to {
-  margin-top: 100px;
-  text-align: center;
+  margin-top: 100px;  
 }
 .div-flex {
   display: flex;
@@ -1634,8 +1639,7 @@ p {
 .relative-div {
   position: relative;
 }
-.for-absol {
-  cursor: pointer;  
+.for-absol {   
   color: #ffffff;
   font-family: Lato;
   font-size: 0.8rem;
@@ -1650,17 +1654,22 @@ p {
 }
 .for-absol:hover {
   background-color: #00928f;
+  cursor: pointer;
 }
 .div-absolute-1 {
-  bottom: 430px
+  left: 49%;
+  bottom: 430px;
 }
 .div-absolute-2 {
+  left: 49%;
   bottom: 330px;
 }
 .div-absolute-3 {
+  left: 49%;
   bottom: 230px;
 }
 .div-absolute-4 {  
+  left: 49%;
   bottom: 130px;  
 }
 
